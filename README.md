@@ -62,7 +62,7 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 ## 📄 Publications
 Richiardi C., Blonda P., Rana F.M., Santoro M., Tarantino C., Vicario S., Adamo M. (2021). A Revised Snow Cover Algorithm to Improve Discrimination between Snow and Clouds: A Case Study in Gran Paradiso National Park. Remote Sensing. 2021; 13(10):1957. [https://doi.org/10.3390/rs13101957](https://doi.org/10.3390/rs13101957).
 
-Balbo S., Di Ciollo C., Elia A., Richiardi C., Labartino M., Pasquali P., Cotrufo S., Arco E., Morreale S., Monaco C. and Grita S. (2020). Transizione da Software Proprietario a FOSS per un Servizio di Cartografia. Atti del convegno FOSS4G Italia 2020, 18-22 Febbraio, Torino.
+Balbo S., Di Ciollo C., Elia A., Richiardi C., Labartino M., Pasquali P., Cotrufo S., Arco E., Morreale S., Monaco C. and Grita S. (2020). [Transizione da Software Proprietario a FOSS per un Servizio di Cartografia](https://zenodo.org/record/3723866#.YunUs3bP02w). Atti del convegno FOSS4G Italia 2020, 18-22 Febbraio, Torino.
 
 Minciardi M.R., Richiardi C., Poma S., Alberico S., Ciadamidaro S., Rossi G.L., Grasso S., Vayr P. (in press). Ecological networking assessment to evaluate ecosystem services and improve green infrastructure. Atti del X Congresso IALE, Nature and Society facing the Anthropocene Challenges and Perspectives for Landscape Ecology, 1-5 Luglio 2019, Milano.
 

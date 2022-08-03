@@ -30,7 +30,7 @@ Activities: Monetary and biophysical assessment of ecosystem services provided b
 
 ## 🎓 Education
 **Ph.D. candidate** - EQF 8 - *11/2021 - CURRENT*  
-University of Turin
+University of Turin  
 Major: Biological sciences and applied biotechnologies  
 Research project: “Remote sensing based approach for monitoring vegetation dynamics under climate and land use changes”  
 Scientific referents: Prof. Consolata Siniscalco (UniTo), Dr. Maria Patrizia Adamo (CNR IIA)  

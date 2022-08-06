@@ -5,7 +5,7 @@
 
 ## 💻 Work experience
 
-**Research Externship** - [University of Saskatchewan] - July, August, September 2022  
+**Research Externship** - [University of Saskatchewan](https://www.usask.ca/) - July, August, September 2022  
 Externship funded bt the Belmont Soils 2020 International Scholars Program  
 Host institution: University of Saskatchewan - [Department of Geography and Planning, Xulin Guo Research Group](https://research-groups.usask.ca/guo/)  
 Activities: Field activities in the Grassland National Park (Saskatchewan, CA) to collect biophysical and remote sensing data through a spectroradiometer to collect vegetation endmembers; Data processing and statistical analysis; Training on spectral, textural and phenological features.

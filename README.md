@@ -63,7 +63,7 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 *2018*. Award for the Master Degree Thesis in memory of Antonio and Luigi Goi XIII edition - University of Brescia. Thesis title: "Analysis and evaluation of ecological reticularity and ecosystem services in the Stura di Lanzo, Orco and Malone (Piedmont) basins", A.Y. 2016/2017.
 
 ## 💬 Languages
-**Italian**: Native  
+**Italian**: First language  
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications

@@ -67,7 +67,9 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications
-Richiardi C., Blonda P., Rana F.M., Santoro M., Tarantino C., Vicario S., Adamo M. (2021). A Revised Snow Cover Algorithm to Improve Discrimination between Snow and Clouds: A Case Study in Gran Paradiso National Park. Remote Sensing. 2021; 13(10):1957. [https://doi.org/10.3390/rs13101957](https://doi.org/10.3390/rs13101957).
+Richiardi, C.; Siniscalco, C.; Adamo, M. Comparison of Three Different Random Forest Approaches to Retrieve Daily High-Resolution Snow Cover Maps from MODIS and Sentinel-2 in a Mountain Area, Gran Paradiso National Park (NW Alps). *Remote Sensing*. 2023, 15, 343. [https://doi.org/10.3390/rs15020343](https://doi.org/10.3390/rs15020343)
+  
+Richiardi C., Blonda P., Rana F.M., Santoro M., Tarantino C., Vicario S., Adamo M. (2021). A Revised Snow Cover Algorithm to Improve Discrimination between Snow and Clouds: A Case Study in Gran Paradiso National Park. *Remote Sensing*. 2021; 13(10):1957. [https://doi.org/10.3390/rs13101957](https://doi.org/10.3390/rs13101957).
 
 Balbo S., Di Ciollo C., Elia A., Richiardi C., Labartino M., Pasquali P., Cotrufo S., Arco E., Morreale S., Monaco C. and Grita S. (2020). [Transizione da Software Proprietario a FOSS per un Servizio di Cartografia](https://zenodo.org/record/3723866#.YunUs3bP02w). Atti del convegno FOSS4G Italia 2020, 18-22 Febbraio, Torino.
 

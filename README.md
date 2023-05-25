@@ -67,7 +67,7 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications
-Richiardi, C.; Minciardi, M.R.; Siniscalco, C.; Adamo, M. Cumulative Spatial and Temporal Analysis of Anthropogenic Impacts in the Protected Area of the Gran Paradiso National Park in the NW Alps, Italy. Land 2023, 12, 1124. [https://doi.org/10.3390/land12061124](https://doi.org/10.3390/land12061124)  
+Richiardi, C.; Minciardi, M.R.; Siniscalco, C.; Adamo, M. Cumulative Spatial and Temporal Analysis of Anthropogenic Impacts in the Protected Area of the Gran Paradiso National Park in the NW Alps, Italy. *Land*. 2023, 12, 1124. [https://doi.org/10.3390/land12061124](https://doi.org/10.3390/land12061124)  
 
 Richiardi, C.; Siniscalco, C.; Adamo, M. Comparison of Three Different Random Forest Approaches to Retrieve Daily High-Resolution Snow Cover Maps from MODIS and Sentinel-2 in a Mountain Area, Gran Paradiso National Park (NW Alps). *Remote Sensing*. 2023, 15, 343. [https://doi.org/10.3390/rs15020343](https://doi.org/10.3390/rs15020343)
   

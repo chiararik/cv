@@ -5,12 +5,16 @@
 
 ## 💻 Work experience
 
+**Technician** - [Piedmont Region](https://www.regione.piemonte.it/web/amministrazione/organizzazione/direzioni-settori-regionali/a1600a-ambiente-energia-territorio/a1601c-sviluppo-sostenibile-biodiversita-aree-naturali) - *09/2023 – CURRENT*  
+Environment, Energy and Territory Directorate - Sector A1601C - Sustainable Development, Biodiversity and Natural Areas  
+Activities: Analysis of multi-source Earth Observation (EO) data for the monitoring of ecosystems, with attention to carbon flows and related indicators related to the Sustainable Development Goals (SDGs). Development in R environment of algorithms for extracting information layers from satellite image datasets. It is the task of the Department, in compliance with the guidelines of the Regional Directorate and in accordance with the objectives set by the Government Bodies, to carry out activities in the field of implementation of European Directives and national regulations through the construction and management of regional strategies on biodiversity, combating climate change and sustainable development; protection, enhancement and recovery of natural capital and ecosystem services; protection and enhancement of the Natura 2000 network, natural heritage and biodiversity.  
+
 **Research Externship** - [University of Saskatchewan](https://www.usask.ca/) - July, August, September 2022  
 Externship funded bt the Belmont Soils 2020 International Scholars Program  
 Host institution: University of Saskatchewan - [Department of Geography and Planning, Xulin Guo Research Group](https://research-groups.usask.ca/guo/)  
 Activities: Field activities in the Grassland National Park (Saskatchewan, CA) to collect biophysical and remote sensing data through a spectroradiometer; Data processing and statistical analysis; Training on spectral, textural and phenological features.
 
-**Research Grant** - [National Research Council - Institute on Atmospheric Pollution](https://en.iia.cnr.it/) - *10/2020 – CURRENT*  
+**Research Grant** - [National Research Council - Institute on Atmospheric Pollution](https://en.iia.cnr.it/) - *10/2020 – 09/2023*  
 Activities: Analysis of multi-source Earth Observation (EO) data for the monitoring of ecosystems, including polar ones, with attention to carbon flows and related indicators related to the Sustainable Development Goals (SDGs). Contribution to 1) HORIZON 2020 – ERA-PLANET the European network for observing our changing planet, strend: GEOEssential Variables workflows for resource efficiency and environmental management; 2) e-shape (EuroGEOSS Showcases: Applications Powered by Europe), a project coordinated by ARMINES and funded under the European Union's Horizon 2020; 3) Belmont Forum project ABRESO - Abandonment and rebound: Societal views on landscape- and land-use change and their impacts on water and soils. Development in R environment of algorithms for extracting information layers from satellite image datasets. Porting in the Virtual Laboratory platform through containerization in Docker environment of the algorithm. Oral presentations of the research activities.
 
 **External collaborator** - [Gran Paradiso National Park](https://www.pngp.it/en) - *07/2020 – 11/2021*  

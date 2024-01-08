@@ -5,7 +5,11 @@
 
 ## 💻 Work experience
 
-**Technician** - [Piedmont Region](https://www.regione.piemonte.it/web/amministrazione/organizzazione/direzioni-settori-regionali/a1600a-ambiente-energia-territorio/a1601c-sviluppo-sostenibile-biodiversita-aree-naturali) - *09/2023 – CURRENT*  
+**Researcher** - [ENEA]([https://www.regione.piemonte.it/web/amministrazione/organizzazione/direzioni-settori-regionali/a1600a-ambiente-energia-territorio/a1601c-sviluppo-sostenibile-biodiversita-aree-naturali](https://impatti.sostenibilita.enea.it/en) - *11/2023 – CURRENT*  
+Italian National Agency for New Technologies, Energy and Sustainable Economic Development - Division Models and Technologies for disaster risks reduction    
+Activities: Analysis of Earth observation and spatial data for monitoring natural, semi-natural, and anthropogenic ecosystems in terrestrial and marine environments to study natural dynamics and anthropogenic impacts and the interaction between them to inform decision-making and governance processes.  
+
+**Technician** - [Piedmont Region](https://www.regione.piemonte.it/web/amministrazione/organizzazione/direzioni-settori-regionali/a1600a-ambiente-energia-territorio/a1601c-sviluppo-sostenibile-biodiversita-aree-naturali) - *09/2023 – 11/2023*  
 Environment, Energy and Territory Directorate - Sector A1601C - Sustainable Development, Biodiversity and Natural Areas  
 Activities: Analysis of multi-source Earth Observation (EO) data for the monitoring of ecosystems, with attention to carbon flows and related indicators related to the Sustainable Development Goals (SDGs). Development in R environment of algorithms for extracting information layers from satellite image datasets. It is the task of the Department, in compliance with the guidelines of the Regional Directorate and in accordance with the objectives set by the Government Bodies, to carry out activities in the field of implementation of European Directives and national regulations through the construction and management of regional strategies on biodiversity, combating climate change and sustainable development; protection, enhancement and recovery of natural capital and ecosystem services; protection and enhancement of the Natura 2000 network, natural heritage and biodiversity.  
 

@@ -5,7 +5,7 @@
 
 ## 💻 Work experience
 
-**Researcher** - [ENEA]([https://www.regione.piemonte.it/web/amministrazione/organizzazione/direzioni-settori-regionali/a1600a-ambiente-energia-territorio/a1601c-sviluppo-sostenibile-biodiversita-aree-naturali](https://impatti.sostenibilita.enea.it/en) - *11/2023 – CURRENT*  
+**Researcher** - [ENEA](https://impatti.sostenibilita.enea.it/en) - *11/2023 – CURRENT*  
 Italian National Agency for New Technologies, Energy and Sustainable Economic Development - Division Models and Technologies for disaster risks reduction    
 Activities: Analysis of Earth observation and spatial data for monitoring natural, semi-natural, and anthropogenic ecosystems in terrestrial and marine environments to study natural dynamics and anthropogenic impacts and the interaction between them to inform decision-making and governance processes.  
 

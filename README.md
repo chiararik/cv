@@ -28,7 +28,7 @@ Cumulative temporal and spatial analysis of the anthropogenic impacts present wi
 Occasional self-employment contract of professional type.
 Activities: Territorial analysis consultancy in GIS environment and return of thematic maps.
 
-**GIS / Remote sensing specialist** - [ITHACA - Information Technology for Humanitarian Assistance, Cooperation and Action](http://ithacaweb.org/) - *02/2019 – 09/2020*  
+**GIS / Remote sensing specialist** - [ITHACA - Information Technology for Humanitarian Assistance, Cooperation and Action](https://ithaca.earth/) - *02/2019 – 09/2020*  
 Activities: Rapid mapping activity by means of remote sensing techniques, under EU Copernicus Emergency Management Service, in support of environmental emergencies for disaster preparedness and response.
 
 **External collaboration** - [SEAcoop STP](www.seacoop.com) - *11/2018 – 02/2019*  

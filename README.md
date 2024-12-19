@@ -75,7 +75,18 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications
-Richiardi, C.; Minciardi, M.R.; Siniscalco, C.; Adamo, M. Cumulative Spatial and Temporal Analysis of Anthropogenic Impacts in the Protected Area of the Gran Paradiso National Park in the NW Alps, Italy. *Land*. 2023, 12, 1124. [https://doi.org/10.3390/land12061124](https://doi.org/10.3390/land12061124)  
+Aquilino M., Mekhloufi N., Baziz A., Richiardi C., Adamo M.P. (under review). Satellite Data and Open-Source Tools for Evaluating the Impact of Urban Greenery on Rising Temperatures: A Case Study of Algiers, Algeria, Int. J. Appl. Earth Obs. Geoinf.,  [https://doi.org/10.2139/ssrn.4880459](https://doi.org/10.2139/ssrn.4880459).  
+
+Nepote Valentin D., Richiardi C., Adamo M., Mammola S., Kull T. (under review). Impact of climate and land use change on the distribution of orchids in Estonia.  Plant Ecology. [https://github.com/user-attachments/assets/f3ea7b4a-7075-4610-a228-cfc53be26b52](https://github.com/user-attachments/assets/f3ea7b4a-7075-4610-a228-cfc53be26b52).  
+
+de Blasi, F., Adamo, M., Chiarle, M., Colombo, N., Godone, D., Guyennon, N., Lodi, R., Nigrelli, G., Paranunzio, R., Piantini, M., Richiardi, C., Salerno, F., Salzano, R., Terzago, S., Valt, M. 2024. *“La Criosfera”, in Siccità, scarsità e crisi idriche*, Emanuele
+Romano, Ivan Portoghese (a cura di), Habitat signa 1, 145-198. Roma: Cnr Edizioni. [https://doi.org/10.69115/habitatsigna-2024-1/05](https://doi.org/10.69115/habitatsigna-2024-1/05).
+
+Denti G.; Petrocelli A.; Cecere E.; Rubino F.; Fanelli G.; Richiardi C.; Adamo M.P. 2024. Preliminary results of Cymodocea nodosa (Tracheophyta, Alismatales) monitoring in the Mar Piccolo of Taranto (southern Italy, Mediterranean Sea) through in situ data and satellite images, [https://hdl.handle.net/20.500.14243/516407](https://hdl.handle.net/20.500.14243/516407).
+
+Richiardi, C., Adamo, M., Scartazza, A., Sella, L., Baneschi, I., Botteghi, S., Brugnoli, E., Fuina, S., Gavrichkova, O., Maerker, M., Mattioni, M., Ragazzi, E., Rossi, V., Rota, F. S., Salvadori, M., Tarantino, C., Vicario, S., Zanetti, A., and Pennisi, M.: The impact of landscape and land use changes on the critical zone and society: the Belmont Forum ABRESO project, EGU General Assembly 2023, Vienna, Austria, 23–28 Apr 2023, EGU23-14567, [https://doi.org/10.5194/egusphere-egu23-14567](https://doi.org/10.5194/egusphere-egu23-14567), 2023.
+
+Richiardi, C.; Minciardi, M.R.; Siniscalco, C.; Adamo, M. Cumulative Spatial and Temporal Analysis of Anthropogenic Impacts in the Protected Area of the Gran Paradiso National Park in the NW Alps, Italy. *Land*. 2023, 12, 1124. [https://doi.org/10.3390/land12061124](https://doi.org/10.3390/land12061124).  
 
 Richiardi, C.; Siniscalco, C.; Adamo, M. Comparison of Three Different Random Forest Approaches to Retrieve Daily High-Resolution Snow Cover Maps from MODIS and Sentinel-2 in a Mountain Area, Gran Paradiso National Park (NW Alps). *Remote Sensing*. 2023, 15, 343. [https://doi.org/10.3390/rs15020343](https://doi.org/10.3390/rs15020343)
   

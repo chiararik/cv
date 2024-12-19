@@ -66,7 +66,7 @@ Curricular internship (225 hours) at ENEA, Biodiversity and Ecosystem Services L
 University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97/110. Supervisor: Dr. Andrea Occhipinti  
 
 ## 🏆 Accomplishments
-*2021*. Contest ‘Envisioning Torino’, Nexto Masterplan Project, AgriTurin - The productive city. Team work first place. The competition aims to think about the possibility of setting up a research center on the implementation and application of IoT technologies in agriculture, with particular reference to the possibilities of precision farming and the protection of local agricultural biodiversity. Associazione Nexto. [Masterplan: una visione per Torino. 2021, Torino, ISBN 9791220093880](https://www.nextomasterplan.it/masterplan/).
+*2021*. Contest ‘Envisioning Torino’, Nexto Masterplan Project, AgriTurin - The productive city. Team work first place. The competition aims to think about the possibility of setting up a research center on the implementation and application of IoT technologies in agriculture, with particular reference to the possibilities of precision farming and the protection of local agricultural biodiversity. Associazione Nexto. [Masterplan: una visione per Torino. 2021, Torino, ISBN 9791220093880](https://www.nex.to.it/wp-content/uploads/2024/01/nexto-masterplan.pdf).
 
 *2018*. Award for the Master Degree Thesis in memory of Antonio and Luigi Goi XIII edition - University of Brescia. Thesis title: "Analysis and evaluation of ecological reticularity and ecosystem services in the Stura di Lanzo, Orco and Malone (Piedmont) basins", A.Y. 2016/2017.
 

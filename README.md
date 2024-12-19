@@ -1,7 +1,7 @@
 # Chiara Richiardi
 *Environmental biologist specialised in GIS/Remote sensing*
 
-[Email](mailto:chiara.richiardi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/chiara-richiardi) / [GitHub](https://github.com/chiararik) / [Twitter](https://twitter.com/chiararichiardi)
+[Email](mailto:chiara.richiardi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/chiara-richiardi) / [GitHub](https://github.com/chiararik) 
 
 ## 💻 Work experience
 

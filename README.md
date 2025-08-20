@@ -75,9 +75,9 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications
-Aquilino M., Mekhloufi N., Baziz A., Richiardi C., Adamo M.P. (under review). Satellite Data and Open-Source Tools for Evaluating the Impact of Urban Greenery on Rising Temperatures: A Case Study of Algiers, Algeria, *Int. J. Appl. Earth Obs. Geoinf.*,  [https://doi.org/10.2139/ssrn.4880459](https://doi.org/10.2139/ssrn.4880459).  
+Aquilino M., Mekhloufi N., Baziz A., Richiardi C., Adamo M.P. 2025. Free satellite data and open-source tools for urban green spaces and temperature pattern analysis in Algiers, *Int. J. Appl. Earth Obs. Geoinf.*,  [https://doi.org/10.1016/j.jag.2025.104482](https://doi.org/10.1016/j.jag.2025.104482).  
 
-Nepote Valentin D., Richiardi C., Adamo M., Mammola S., Kull T. (under review). Impact of climate and land use change on the distribution of orchids in Estonia.  *Plant Ecology*. [https://github.com/user-attachments/assets/f3ea7b4a-7075-4610-a228-cfc53be26b52](https://github.com/user-attachments/assets/f3ea7b4a-7075-4610-a228-cfc53be26b52).  
+Nepote Valentin, D., Adamo, M., Richiardi, C., Mammola, S., Kull, T. 2025. Impact of climate and land use change on the distribution of orchids in Estonia. Plant Ecol 226, 831–844. [https://doi.org/10.1007/s11258-025-01533-x](https://doi.org/10.1007/s11258-025-01533-x).  
 
 de Blasi, F., Adamo, M., Chiarle, M., Colombo, N., Godone, D., Guyennon, N., Lodi, R., Nigrelli, G., Paranunzio, R., Piantini, M., Richiardi, C., Salerno, F., Salzano, R., Terzago, S., Valt, M. 2024. *“La Criosfera”, in Siccità, scarsità e crisi idriche*, Emanuele
 Romano, Ivan Portoghese (a cura di), Habitat signa 1, 145-198. Roma: Cnr Edizioni. [https://doi.org/10.69115/habitatsigna-2024-1/05](https://doi.org/10.69115/habitatsigna-2024-1/05).

@@ -74,7 +74,9 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **Italian**: First language  
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
-## 📄 Publications
+## 📄 Publications  
+Richiardi, C., Siniscalco, C., Garbarino, M., Adamo M.P. Unravelling decades of habitat dynamics in protected areas: A hierarchical approach applied to the Gran Paradiso National Park (NW Italy). *Environ Monit Assess* 197, 1216 (2025). [https://doi.org/10.1007/s10661-025-14669-0](https://doi.org/10.1007/s10661-025-14669-0).  
+  
 Aquilino M., Mekhloufi N., Baziz A., Richiardi C., Adamo M.P. 2025. Free satellite data and open-source tools for urban green spaces and temperature pattern analysis in Algiers, *Int. J. Appl. Earth Obs. Geoinf.*,  [https://doi.org/10.1016/j.jag.2025.104482](https://doi.org/10.1016/j.jag.2025.104482).  
 
 Nepote Valentin, D., Adamo, M., Richiardi, C., Mammola, S., Kull, T. 2025. Impact of climate and land use change on the distribution of orchids in Estonia. Plant Ecol 226, 831–844. [https://doi.org/10.1007/s11258-025-01533-x](https://doi.org/10.1007/s11258-025-01533-x).  

@@ -43,7 +43,7 @@ Activities: Monetary and biophysical assessment of ecosystem services provided b
 
 
 ## 🎓 Education
-**Ph.D. candidate** - EQF 8 - *11/2021 - CURRENT*  
+**Ph.D. with honors** - EQF 8 - *11/2021 - 12/2025*  
 University of Turin  
 Major: Biological sciences and applied biotechnologies  
 Research project: “Remote sensing based approach for monitoring vegetation dynamics under climate and land use changes”  
@@ -75,6 +75,8 @@ University of Turin. Curriculum: Molecular and cellular biology. Degree mark: 97
 **English**: Intermediate, First Certificate in English (FCE) – EXOL Cambridge University  
 
 ## 📄 Publications  
+Richiardi, C., Caroscio, L., Crescini, E., De Marchi, M., De Pieri, G. M., Ceresi, C., Baldo, F., Francobaldi, M., & Pappalardo, S. E. (2025). A global downstream approach to mapping surface urban heat islands using open data and collaborative technology. Sustainable Geosciences: People, Planet and Prosperity, 100006. [https://doi.org/10.1016/j.susgeo.2025.100006](https://doi.org/10.1016/j.susgeo.2025.100006). 
+
 Richiardi, C., Siniscalco, C., Garbarino, M., Adamo M.P. Unravelling decades of habitat dynamics in protected areas: A hierarchical approach applied to the Gran Paradiso National Park (NW Italy). *Environ Monit Assess* 197, 1216 (2025). [https://doi.org/10.1007/s10661-025-14669-0](https://doi.org/10.1007/s10661-025-14669-0).  
   
 Aquilino M., Mekhloufi N., Baziz A., Richiardi C., Adamo M.P. 2025. Free satellite data and open-source tools for urban green spaces and temperature pattern analysis in Algiers, *Int. J. Appl. Earth Obs. Geoinf.*,  [https://doi.org/10.1016/j.jag.2025.104482](https://doi.org/10.1016/j.jag.2025.104482).  
